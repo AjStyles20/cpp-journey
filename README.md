@@ -1,6 +1,8 @@
 # cpp-journey: 30–75 Days of C++ Projects
 
-**A structured, progressive series of daily C++ projects** designed to take you from beginner syntax through advanced robotics and AI topics. Document your journey, strengthen your resume, and build a portfolio with hands-on, real‑world tasks.
+> **Journey Complete!**  
+> As of **July, 2025**, this repository marks the successful completion of a multi-week C++ learning adventure.  
+> Thank you for following along, contributing, and building your skills—your portfolio now reflects a robust progression from beginner to advanced C++ and robotics!
 
 
 

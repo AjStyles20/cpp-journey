@@ -79,8 +79,4 @@ Data size: 20000 elements
 ## Notes
 - Bubble Sort is only run for arrays up to 10,000 elements due to its inefficiency.
 - STL sort is used as a reference for optimal performance.
-- You can modify the `sizes` vector to test other data sizes.
-
----
-
-This
+- You can modify the `sizes` vector to test other data sizes

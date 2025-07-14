@@ -1,4 +1,4 @@
-# Day 1 – Hello World
+# 01_Hello World
 
 ## Project Description
 A simple C++ program that prints "Hello, C++ World!" to the terminal.

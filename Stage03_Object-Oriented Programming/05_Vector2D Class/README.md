@@ -50,7 +50,7 @@ v1 + v2: (4, 6)
 - Proper encapsulation with private members
 
 ## Class Interface
-```cpp
+
 class Vector2D {
 private:
     double x, y;

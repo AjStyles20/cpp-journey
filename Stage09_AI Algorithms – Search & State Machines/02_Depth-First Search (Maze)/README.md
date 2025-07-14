@@ -60,13 +60,4 @@ S . # # . . . # . G
 
 ---
 
-## Possible Extensions
-
-- Allow user input for custom mazes
-- Support for diagonal movement or weighted cells
-- Visualize the search process step-by-step
-- Implement other search algorithms (BFS, A*, Dijkstra)
-
----
-
-This project provides a hands-on introduction to
+This project provides a hands-on introduction to search algorithms and pathfinding in grid-based environments using C++.
